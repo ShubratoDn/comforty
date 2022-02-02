@@ -74,6 +74,7 @@ input:focus{
 /* dropdown */
 .dropdown{
     position: relative;
+    z-index: 1;
 }
 .dropdown-content{
     visibility: hidden;
